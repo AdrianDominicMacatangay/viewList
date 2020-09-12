@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">CustomListView</string>
+    <string-array name="codeName">
+        <item>Cupcake</item>
+        <item>Donut</item>
+        <item>Eclair</item>
+        <item>Froyo</item>
+        <item>Gingerbread</item>
+        <item>Honeycomb</item>
+        <item>Jellybean</item>
+        <item>Kitkat</item>
+        <item>Lollipop</item>
+    </string-array>
+    <string-array name="apiLevel">
+        <item>API Level 3</item>
+        <item>API Level 4</item>
+        <item>API Level 5-7</item>
+        <item>API Level 8</item>
+        <item>API Level 9-10</item>
+        <item>API Level 11-13</item>
+        <item>API Level 14-15</item>
+        <item>API Level 16-18</item>
+        <item>API Level 19-20</item>
+        <item>API Level 21-22</item>
+    </string-array>
+</resources>
